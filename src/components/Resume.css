@@ -1,0 +1,37 @@
+.timeline-item {
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.timeline-item .timeline-item-content {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+}
+
+.timeline-item .timeline-item-dot {
+    position: absolute;
+    background-color: #5e7c97;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    top: 10px;
+}
+
+.timeline-item.right .timeline-item-content {
+    margin-left: 40px;
+}
+
+.timeline-item:not(.right) .timeline-item-content {
+    margin-right: 40px;
+}
+
+.timeline-item.right .timeline-item-dot {
+    right: -10px;
+}
+
+.timeline-item:not(.right) .timeline-item-dot {
+    left: -10px;
+}
+
