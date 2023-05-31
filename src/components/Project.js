@@ -3,19 +3,18 @@ import { Card } from 'react-bootstrap';
 import { FaGithub, FaOctopusDeploy } from 'react-icons/fa';
 import styled from 'styled-components';
 
-
 const Project = ({ project }) => {
     return (
         <StyledCard className="project-card">
-            <Card.Img variant="top" src='./api-code-quiz.jpg' />
+            <Card.Img variant="top" src={project.image} />
             <Card.Body>
                 <Card.Title>{project.title}</Card.Title>
                 <Card.Text>
                     {project.description}
                 </Card.Text>
-                <StyledCardLink href={project.link}><FaGithub /> GitHub Repository
-                <StyledCardLink href={project.link2}><FaOctopusDeploy />Deployed Link</StyledCardLink>
-                </StyledCardLink>
+                <StyledCardLink href={project.link}><FaGithub /> GitHub Repository</StyledCardLink>
+                <a href={project.link2}><FaOctopusDeploy />Deployed Link</a>
+                
             </Card.Body>
         </StyledCard>
     );
