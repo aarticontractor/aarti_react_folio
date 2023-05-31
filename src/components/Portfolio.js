@@ -8,7 +8,7 @@ import jamFolioImage from '../images/JamFolio-Project2.jpg'
 import noMadImage from '../images/NomadApp-Project1.jpg'
 import weatherImage from '../images/weather-dashboard.jpg'
 import webApiImage from '../api-code-quiz.jpg'
-import pwaImage from '../images/JamFolio-Project2.jpg'
+import pwaImage from '../images/pwa.jpg'
 import mvcImage from '../images/mvc-tech-blog.jpg'
 
 

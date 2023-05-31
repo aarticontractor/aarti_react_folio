@@ -1,70 +1,100 @@
-# Getting Started with Create React App
+# My Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Technology Used 
 
-In the project directory, you can run:
+| Technology Used         | Resource URL           | 
+| ------------- |:-------------:|    
+| Git | [https://git-scm.com/](https://git-scm.com/)     |  
+| JavaScript | [https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |  
+| NodeJs | [https://nodejs.org/en](https://nodejs.org/en) |
+| ExpressJS | [https://www.npmjs.com/package/express](https://www.npmjs.com/package/express) |
+|  React | [https://react.dev/](https://react.dev/) |
+|  Bootstrap | [https://getbootstrap.com/](https://getbootstrap.com/) |
 
-### `npm start`
+<br>
+<br>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Table of Contents
+- [Technologies](#technologies)
+- [Description](#description)
+- [Features](#features)
+- [Installation](#installation)
+- [Application Highlights](#application-highlights)
+- [Credits](#credits)
+<br>
+<br>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Description 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[Visit the Deployed Site](https://aarticontractor.github.io/aarti_react_folio/)
 
-### `npm run build`
+Welcome to my portfolio! This portfolio project was built using React, a popular JavaScript library for building user interfaces. It serves as a central hub to present my work samples, skills, and experience to potential employers or clients. The portfolio follows a single-page application structure, with a header, navigation, content sections, and a footer.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<br>
+<br>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Installation
+To run the portfolio locally on your machine, follow these steps:
+1. Clone this repository to your local machine using the command: `git clone https://github.com/aarticontractor/aarti_react_folio`
+2. Navigate to the project directory: `cd aarti_react_folio`
+3. Install the required dependencies by running the command: `npm install`
+<br>
+Once you have installed the dependencies, you can start the portfolio by running the command: `npm start`. This will launch the portfolio in your default browser, allowing you to navigate through the different sections and view my work samples. Feel free to explore, interact with the contact form, and download my resume.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Application Highlights:
+When I load my portfolio, my name, a recent photo, and links to sections about me, my work, and my contact details are presented:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![alt text](./src/images/portfolio-image.jpg)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<br>
+<br>
+<br>
+When I click on the project link, the application's image is larger in size than the other showing a hover effect:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![alt text](./src/images/project-hover.jpg)
+<br>
+<br>
+<br>
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Features
+- **Header:** The portfolio includes a persistent header that appears on all pages, providing consistent branding and navigation links.
+- **Navigation:** The header contains a navigation component that allows users to easily switch between different sections of the portfolio, including About Me, Portfolio, Contact, and Resume.
+- **Content Sections:** Each section of the portfolio provides specific information and functionality:
+  - **About Me:** Presents a brief introduction, including a recent photo or avatar and a short bio about me.
+  - **Portfolio:** Showcases titled images of six of my applications, along with links to both the deployed applications and their corresponding GitHub repositories.
+  - **Contact:** Includes a contact form with fields for name, email address, and message, allowing visitors to get in touch with me.
+  - **Resume:** Provides a link to download my resume and lists my proficiencies, highlighting the technologies and skills I have expertise in.
+- **Footer:** The portfolio includes a footer section that appears on all pages, containing text or icon links to my GitHub and LinkedIn profiles, as well as my profile on a third platform such as Medium.
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+ ## Credits
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript
+- https://cloudconvert.com/webm-to-gif
+- https://nodejs.org/en
+- https://www.npmjs.com/package/express
+- https://react.dev/
+- https://getbootstrap.com/
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Author Info
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### Aarti Contractor
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+- Portfolio: https://aarticontractor.github.io/aarticontractor_portfolio/
+- Linkedin: https://www.linkedin.com/in/aarti-contractor/
+- Github: https://github.com/aarticontractor
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<br>
+
+© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
