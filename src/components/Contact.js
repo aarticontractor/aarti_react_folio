@@ -3,7 +3,7 @@ import { Container, Row, Col, Form, Button } from 'react-bootstrap';
 
 const Contact = () => {
     return (
-        <Container className="contact-section" style={{ height: '100vh'}}>
+        <Container className="contact-section">
             <Row>
                 <Col md={8} className="mx-auto">
                     <h2>Contact</h2>
