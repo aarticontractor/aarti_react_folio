@@ -1,14 +1,20 @@
 {
   "files": {
     "main.css": "/aarti_react_folio/static/css/main.47fb84a0.css",
-    "main.js": "/aarti_react_folio/static/js/main.869fbbef.js",
+    "main.js": "/aarti_react_folio/static/js/main.e39e0d0e.js",
     "static/media/mypic1.jpg": "/aarti_react_folio/static/media/mypic1.1cd07bcb19ab12f636dc.jpg",
+    "static/media/NomadApp-Project1.jpg": "/aarti_react_folio/static/media/NomadApp-Project1.c792a35874c8f9deafec.jpg",
+    "static/media/JamFolio-Project2.jpg": "/aarti_react_folio/static/media/JamFolio-Project2.e3d39458ccf5739f7b7c.jpg",
+    "static/media/weather-dashboard.jpg": "/aarti_react_folio/static/media/weather-dashboard.7115c10c0042cbefe29e.jpg",
+    "static/media/api-code-quiz.jpg": "/aarti_react_folio/static/media/api-code-quiz.0f1a5ac110408bae1ca3.jpg",
+    "static/media/mvc-tech-blog.jpg": "/aarti_react_folio/static/media/mvc-tech-blog.51f36ea62db4f9e0faf1.jpg",
+    "static/media/pwa.jpg": "/aarti_react_folio/static/media/pwa.df30c09e7d37e6773bb6.jpg",
     "index.html": "/aarti_react_folio/index.html",
     "main.47fb84a0.css.map": "/aarti_react_folio/static/css/main.47fb84a0.css.map",
-    "main.869fbbef.js.map": "/aarti_react_folio/static/js/main.869fbbef.js.map"
+    "main.e39e0d0e.js.map": "/aarti_react_folio/static/js/main.e39e0d0e.js.map"
   },
   "entrypoints": [
     "static/css/main.47fb84a0.css",
-    "static/js/main.869fbbef.js"
+    "static/js/main.e39e0d0e.js"
   ]
 }
