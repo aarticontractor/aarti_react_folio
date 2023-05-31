@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/aarti_react_folio/static/css/main.47fb84a0.css",
+    "main.js": "/aarti_react_folio/static/js/main.e9c2d62f.js",
+    "static/media/logo.svg": "/aarti_react_folio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/aarti_react_folio/index.html",
+    "main.47fb84a0.css.map": "/aarti_react_folio/static/css/main.47fb84a0.css.map",
+    "main.e9c2d62f.js.map": "/aarti_react_folio/static/js/main.e9c2d62f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47fb84a0.css",
+    "static/js/main.e9c2d62f.js"
+  ]
+}
