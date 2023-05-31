@@ -5,7 +5,7 @@ import styled from 'styled-components';
 import Fade from 'react-reveal/Fade';
 import Flip from 'react-reveal/Flip';
 
-import profileImage from '../logo.svg'; // Replace this with path to your actual image
+import profileImage from '../mypic1.jpg'; // Replace this with path to your actual image
 
 const About = () => {
   return (
