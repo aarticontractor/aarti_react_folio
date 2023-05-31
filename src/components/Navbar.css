@@ -1,0 +1,17 @@
+.navbar {
+    border-bottom: 1px solid #ccc;
+   
+}
+
+.nav-link {
+    margin: 0 1em;
+}
+
+.nav-link a {
+    color: black;
+    transition: color 0.2s ease-in-out;
+}
+
+.nav-link a:hover {
+    color: #007bff;
+}
