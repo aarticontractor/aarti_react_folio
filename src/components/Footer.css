@@ -1,0 +1,9 @@
+.footer-section {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #f8f9fa;
+    /* choose your own color */
+    text-align: center;
+    /* other styles as necessary */
+}
